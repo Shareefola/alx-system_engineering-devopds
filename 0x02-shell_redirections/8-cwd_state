@@ -1,2 +1,0 @@
-#!/bin/bash
-echo 'list long format including hidden files' > ls_lw_content
