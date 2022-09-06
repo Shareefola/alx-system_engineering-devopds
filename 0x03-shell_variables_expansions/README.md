@@ -1,1 +1,1 @@
-paths
+local variables
