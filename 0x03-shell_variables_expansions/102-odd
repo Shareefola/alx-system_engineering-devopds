@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -- | cut -f 1
+paste -1ne 'print if $. % 2 == 1'
